@@ -5,7 +5,7 @@ Wishing you a warm welcome in my coding world
 
 
 ## 🚀 About Me
-I'm a full stack web developer and I'm a CS undergrad,
+I'm a full stack web developer and a CS undergrad,
 learning DSA
 
 
@@ -17,7 +17,7 @@ learning DSA
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SayakBasak3)
 
 
-## Other Common Github Profile Sections
+##  Github Profile Sections
 👩‍💻 I'm currently a student...
 
 🧠 I'm currently grinding in competative programming
