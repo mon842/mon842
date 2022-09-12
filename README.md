@@ -25,7 +25,7 @@ learning DSA
 
 ## 🛠 Skills
 ( frontend )Javascript, HTML, CSS ,react.js
-( backend )MongoDB , Node.js 
+( backend )MongoDB , Node.js ,express.js
 
 DSA and cp on
 JAVA and C
