@@ -18,6 +18,8 @@ learning DSA
 
 
 ##  Github Profile Sections
+2 ⭐ at codeChef
+
 👩‍💻 I'm currently a student...
 
 🧠 I'm currently grinding in competative programming
