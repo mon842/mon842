@@ -5,7 +5,7 @@ Wishing you a warm welcome in my coding world
 
 
 ## 🚀 About Me
-I'm a full stack web developer and a CS undergrad,
+I'm a full stack web developer,
 learning DSA
 
 
@@ -17,29 +17,7 @@ learning DSA
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SayakBasak3)
 
 
-##  Github Profile Sections
-2 ⭐ at codeChef
-
-👩‍💻 I'm currently a student...
-
-🧠 I'm currently grinding in competative programming
-
-
-## 🛠 Skills
-( frontend )Javascript, HTML, CSS ,react.js
-( backend )MongoDB , Node.js ,express.js
-
-DSA and cp on
-JAVA and C
-
-
 ![Logo](https://www.trio.dev/hubfs/Imported_Blog_Media/dbc631c76245baabe08c31d016a94de2-2.jpg)
 
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
 
