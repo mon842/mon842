@@ -18,7 +18,7 @@
 
 ```yaml
 role: Full Stack Web Developer
-currently_learning: DSA
+currently_learning: Vibe coding
 focus: Building scalable & clean applications
 interests: [Web Development, Systems, Problem Solving]
 ```
