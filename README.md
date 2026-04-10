@@ -1,5 +1,4 @@
 # Heyaa 🤘, I'm Sayak
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/mon842/mon842)
 
 Wishing you a warm welcome in my coding world
 
